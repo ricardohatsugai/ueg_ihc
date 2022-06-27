@@ -1,2 +1,2 @@
-# ueg_ihc
-UEG - Disciplina de Interface Humano Computador
+# *UEG - Disciplina de Interface Humano Computador*
+## **Professor: Paulo Almeida**
